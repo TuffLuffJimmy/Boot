@@ -1,0 +1,7 @@
+
+paragraph styling is broken
+071 - Ordered list at line 71 has improperly defined elements
+088 - the three button functions are improperly labeled
+099 - buttons do not work for reasons
+113 - The javascript connection link in line 113 did not work
+image styling is broken
